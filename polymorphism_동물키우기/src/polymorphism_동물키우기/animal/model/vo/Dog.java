@@ -57,7 +57,7 @@ public class Dog extends Animal implements Sleep{
 	@Override
 	public void routing() {
 		// TODO Auto-generated method stub
-		System.out.println("°³°¡ Â¢´Â´Ù!!");
+		System.out.println("¸Û¸Û");
 	}
 	
 	
